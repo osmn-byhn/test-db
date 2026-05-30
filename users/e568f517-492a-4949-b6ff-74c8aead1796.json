@@ -1,0 +1,12 @@
+{
+  "_id": "e568f517-492a-4949-b6ff-74c8aead1796",
+  "name": "Test User 1780167002195",
+  "profile": {
+    "bio": "Hello from test script",
+    "age": 18
+  },
+  "tags": [
+    "test",
+    "live"
+  ]
+}
